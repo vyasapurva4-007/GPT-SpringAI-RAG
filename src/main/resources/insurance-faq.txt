@@ -1,0 +1,13 @@
+Deductible: A deductible is the amount a policyholder pays out of pocket before the insurer starts paying a covered claim. For example, with a 500 deductible and a 2,000 claim, the insurer pays 1,500.
+
+Premium: A premium is the amount paid to the insurer, monthly or annually, to keep a policy active. Premiums depend on risk factors such as age, location, claims history and coverage amount.
+
+Claim settlement process: After a claim is filed, the insurer registers it, assigns an adjuster, verifies documents, assesses the loss and then approves or rejects the claim. Approved claims are paid to the policyholder or to the repair provider.
+
+Grace period: Most health and life policies allow a grace period of 15 to 30 days after the premium due date. The policy stays active during this time, but a claim may be reduced if the premium is still unpaid.
+
+No-claim bonus: If no claim is made during a policy year, the insurer may give a discount on the next year's premium. The bonus is typically lost if a claim is made.
+
+Waiting period: A waiting period is the time after buying a policy during which certain claims are not covered. Pre-existing conditions commonly have a waiting period of 2 to 4 years in health insurance.
+
+Underwriting: Underwriting is the process insurers use to evaluate risk and decide whether to offer coverage, and at what price.
